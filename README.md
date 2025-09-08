@@ -26,7 +26,7 @@ The Power BI dashboard is divided into interactive pages, each focusing on a dif
 - Product category performance
 - Payment behavior and installment breakdown
   
-<img width="879" height="485" alt="Image" src="https://github.com/user-attachments/assets/d6b35473-7657-4b6e-8236-ccf8c52d2c6d" />
+<img width="880" height="492" alt="Image" src="https://github.com/user-attachments/assets/ff3a73b1-e062-4e30-8829-66cfe4899b68" />
 
 ---
 
@@ -35,7 +35,7 @@ The Power BI dashboard is divided into interactive pages, each focusing on a dif
 - Customer demographics and purchasing trends
 - Seller performance analysis and contribution to marketplace growth
 
-<img width="886" height="494" alt="Image" src="https://github.com/user-attachments/assets/827c648b-4722-45f0-8dda-c9659d7aa2be" />
+<img width="883" height="489" alt="Image" src="https://github.com/user-attachments/assets/1882cfa7-2d45-44c9-82b8-54878eb23aca" />
 
 ### 3. Rating Insights
 - KPIs: Average Review Score, % of On-Time Deliveries
@@ -43,7 +43,7 @@ The Power BI dashboard is divided into interactive pages, each focusing on a dif
 - Delays and their impact on ratings
 - Correlation between delivery time and review scores
 
-<img width="900" height="494" alt="Image" src="https://github.com/user-attachments/assets/269e1a2a-3ee0-41e8-8dc1-11c1d1f7a16a" />
+<img width="888" height="491" alt="Image" src="https://github.com/user-attachments/assets/36b37387-83a3-411c-a583-9c3264a6da99" />
 
 ## 📈 Business Value
 This project illustrates how data-driven analytics can empower business teams to:
@@ -63,7 +63,7 @@ Reducing delivery delays by analyzing logistics bottlenecks.
 
 🧑‍💻 Author
 Judah Anuulopo
-Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+Data Analyst | Business Intelligence Enthusiast
 
 
 
