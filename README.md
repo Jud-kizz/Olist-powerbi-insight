@@ -4,6 +4,7 @@ This repository contains a Power BI analytics project built on the OList Brazili
 ## Judah OList Dataset – Power BI Dashboard
 This repository contains a Power BI dashboard project built using the OList Brazilian E-Commerce dataset. The primary goal of this project is to provide an end-to-end analysis of the e-commerce ecosystem, uncovering patterns in customer behavior, order performance, product categories, logistics, and seller performance. The dashboard serves as a decision-support tool for business stakeholders, enabling them to explore sales trends, customer satisfaction, and operational efficiency in a visually engaging and interactive way in Brazil largest marketplace. By leveraging data visualization, KPIs, and DAX measures, this project demonstrates how raw transactional data can be transformed into business intelligence insights that drive growth, improve customer experience, and optimize marketplace performance.
 
+
 ## 📂 Dataset Description
 The analysis is based on the OList dataset, a publicly available collection of e-commerce transactions from Brazil. The dataset includes over 100,000 orders spanning multiple years and provides a holistic view of online marketplace activities.
 Key tables included:
